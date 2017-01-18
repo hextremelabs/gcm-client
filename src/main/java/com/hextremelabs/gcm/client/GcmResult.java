@@ -60,7 +60,7 @@ import java.util.List;
  * @author Sayo Oladeji (heavily modified, file is almost a rewrite)
  */
 @Entity
-@Table(name = "gcm_result", catalog = "litedb")
+@Table(name = "gcm_result")
 @XmlRootElement
 public class GcmResult implements Serializable {
 
