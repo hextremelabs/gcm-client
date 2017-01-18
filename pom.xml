@@ -34,9 +34,9 @@
   </developers>
 
   <scm>
-    <connection>scm:git:https://github.org/hextremelabs/gcm-client.git</connection>
-    <developerConnection>scm:git:https://github.org/hextremelabs/gcm-client.git</developerConnection>
-    <url>https://github.org/hextremelabs/gcm-client.git</url>
+    <connection>scm:git:https://github.com/hextremelabs/gcm-client.git</connection>
+    <developerConnection>scm:git:https://github.com/hextremelabs/gcm-client.git</developerConnection>
+    <url>https://github.com/hextremelabs/gcm-client.git</url>
   </scm>
 
   <properties>
